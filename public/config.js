@@ -1,0 +1,1 @@
+window.$url = 'https://data.bladex.vip/blade-visual'
